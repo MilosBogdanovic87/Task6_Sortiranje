@@ -4,6 +4,7 @@
  - Bubble sort
  - Selection sort
  - Merge sort
+
 Бонус:
  - Heap Sort.
  - Insertion Sort.
